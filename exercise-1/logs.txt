@@ -1,3 +1,8 @@
-Sequential: Found 665110 primes in 179.56 seconds
+1 million dataset:-
+Sequential: Found 78703 primes in 6.93 seconds
+Parallel: Found 78703 primes in 5.08 seconds
 
+10 million dataset:-
+Sequential: Found 665110 primes in 179.56 seconds
 Parallel: Found 665110 primes in 125.74 seconds
+

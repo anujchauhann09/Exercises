@@ -2,7 +2,8 @@ from utils.primes.sequential import count_primes_sequential
 from utils.primes.parallel import count_primes_parallel
 
 if __name__ == "__main__":
-    limit = 10**7 
+    # limit = 10**6
+    limit = 10**7
 
     # prime_count_seq, time_seq = count_primes_sequential(limit)
     # print(f"Sequential: Found {prime_count_seq} primes in {time_seq:.2f} seconds")
