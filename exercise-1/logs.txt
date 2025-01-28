@@ -1,11 +1,3 @@
-Starting sequential prime counting...
-Sequential count: 78703 primes
-Time taken (sequential): 7.33 seconds
+Sequential: Found 665110 primes in 179.56 seconds
 
-[Done] exited with code=0 in 7.657 seconds
-
-Starting multithreaded prime counting...
-Multithreaded count: 78703 primes
-Time taken (multithreaded): 53.77 seconds
-
-[Done] exited with code=0 in 54.497 seconds
+Parallel: Found 665110 primes in 125.74 seconds
